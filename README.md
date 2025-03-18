@@ -12,8 +12,7 @@ This project focuses on web scraping property listings from **Bayut**, a real es
 ## 🔧 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/bayut-property-analysis.git
-   cd bayut-property-analysis
+   git clone https://github.com/MeshalAlsanariWork/Project-Bayut.git
    ```
 2. Install dependencies:
    ```bash
